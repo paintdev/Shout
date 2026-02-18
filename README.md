@@ -1,2 +1,2 @@
 # Shout
-I made a Wispr Flow clone but it's significantly worse
+My attempt on making something similar to Wispr Flow
