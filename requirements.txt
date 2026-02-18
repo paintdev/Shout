@@ -1,0 +1,5 @@
+RealtimeSTT
+pyautogui
+customtkinter
+keyboard
+Pillow
